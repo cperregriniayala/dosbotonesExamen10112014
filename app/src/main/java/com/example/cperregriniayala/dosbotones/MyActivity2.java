@@ -17,6 +17,9 @@ import static com.example.cperregriniayala.dosbotones.R.id.botonH;
 
 public class MyActivity2 extends Activity {
 
+    private final static String[] names = { "Perro", "Gato", "Caballo",
+            "Canario", "Vaca", "Cerdo" };
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {

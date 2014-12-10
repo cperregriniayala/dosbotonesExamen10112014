@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".MyActivity2"
-            android:label="@string/title_activity_my_activity2" >
+            android:label="@string/title_activity_my_activity2"
+            android:spinner="spinner">
         </activity>
     </application>
 

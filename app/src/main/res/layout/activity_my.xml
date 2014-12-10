@@ -34,4 +34,9 @@
         android:layout_alignTop="@+id/botonH"
         android:layout_toRightOf="@+id/textSaludo" />
 
+    <Spinner
+        android:id="@+id/spAnimals"
+        android:layout_width = "fill_parent"
+        android:layout_height = "wrap_content" />
+
 </RelativeLayout>
