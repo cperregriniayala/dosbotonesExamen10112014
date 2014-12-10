@@ -9,7 +9,7 @@
     tools:context=".MyActivity">
 
     <TextView
-        android:text="SALUDO"
+        android:text="Hacemos un cambio el profesor"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textSaludo"
